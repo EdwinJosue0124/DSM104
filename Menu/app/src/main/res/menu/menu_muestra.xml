@@ -10,8 +10,5 @@
     <item android:id="@+id/opcion2"
         android:title="Ejercicio 2"
         app:showAsAction="never" />
-    <item android:id="@+id/opcion3"
-        android:title="Ejercicio 3"
-        app:showAsAction="never" />
 
 </menu>

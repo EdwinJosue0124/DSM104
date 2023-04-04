@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833111373937",
+    "project_id": "fir-desafio02",
+    "storage_bucket": "fir-desafio02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833111373937:android:00d5ee2f5c02bb5ede83d0",
+        "android_client_info": {
+          "package_name": "com.example.menu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833111373937-umfs6t8f9b2qnrsvj3nfsbjegckog6j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDCFLKPppD9_E4u55gnK8HEsh4Ba67Qs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833111373937-umfs6t8f9b2qnrsvj3nfsbjegckog6j8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

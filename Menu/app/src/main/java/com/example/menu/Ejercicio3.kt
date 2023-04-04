@@ -55,8 +55,7 @@ class Ejercicio3 : AppCompatActivity() {
             startActivity(Intent(this,MainActivity::class.java))
         if(item.itemId == R.id.opcion2)
             startActivity(Intent(this,Ejercicio2::class.java))
-        if(item.itemId == R.id.opcion3)
-            startActivity(Intent(this,Ejercicio3::class.java))
+
         return super.onOptionsItemSelected(item)
     }
 }
